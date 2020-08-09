@@ -1,0 +1,15 @@
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSE
+* ==========================================
+*
+*/
+body {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#1c0055), color-stop(#b6002a), color-stop(#07182b), color-stop(#061220), to(#020b16));
+    background-image: -webkit-linear-gradient(top, #1c0055, #b6002a);
+    background-image: -o-linear-gradient(top, #1c0055, #b6002a);
+    background-image: linear-gradient(to bottom, #1c0055, #b6002a);
+    min-height: 100vh;
+}
+
